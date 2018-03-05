@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'appium_lib'
+gem 'appium_console'
+gem 'cucumber'
+gem 'rspec'
+gem 'pry'
