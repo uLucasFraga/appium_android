@@ -3,7 +3,7 @@
 ##### [objetivo]
 _exercício para testar a camada mobile (android) com o **appium** e um básico **BDD** com pageObjects.
 
-_ambiente: *apk - APPPROVA [enem] -*
+_ambiente: *apk - Calculator [simple] -*
 
 ## [frameworks]
 
@@ -17,10 +17,10 @@ _pry
 
 
 ## [specs]
-_introducao_app.feature: 2 cenários para validacao das introduções do app.
+_calculator_app.feature: 4 cenários para calculos e validações deles no app.
 
 ## [steps]
-_introducao_app_steps: Validações feitas através do **.rspec**
+_calculator_app_steps: Validações feitas através do **.rspec**
 
 **OBS:**
 
